@@ -11,3 +11,5 @@ Visit Website --> [WeatherAppUsingOpenWeatherMapAPI](https://kshitizrohilla.gith
 ![Screenshot 3](screenshots/3.png)  
 ![Screenshot 4](screenshots/4.png)
 
+## 🌐 Live Demo
+[Click here to view the Weather App](https://iamro045.github.io/Weather-App/)
