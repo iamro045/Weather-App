@@ -6,7 +6,8 @@ The app tells the current temperature and some additional information like Air Q
 Visit Website --> [WeatherAppUsingOpenWeatherMapAPI](https://kshitizrohilla.github.io/weather-app-using-openweathermap-api)
 
 ## Screenshots
-![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/1.png)
-![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/2.png)
-![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/3.png)
-![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/4.png)
+![Screenshot 1](screenshots/1.png)  
+![Screenshot 2](screenshots/2.png)  
+![Screenshot 3](screenshots/3.png)  
+![Screenshot 4](screenshots/4.png)
+
